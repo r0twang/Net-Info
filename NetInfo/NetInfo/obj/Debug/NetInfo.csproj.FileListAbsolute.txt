@@ -1,0 +1,6 @@
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\bin\Debug\NetInfo.exe.config
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\bin\Debug\NetInfo.exe
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\bin\Debug\NetInfo.pdb
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\obj\Debug\NetInfo.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\obj\Debug\NetInfo.exe
+C:\Dropzone\gym\netinfo\NetInfo\NetInfo\obj\Debug\NetInfo.pdb
